@@ -1,0 +1,16 @@
+Answer to Question-1:
+
+(a) -> so the phase 1 is called [Composition Phase] and it runs our @compose function and structures all ui elements in there
+
+phase 2 is called [Layout Phase] and it runs through ui tree generated afterr composing process to measure and position widgets
+
+phase 3 is called [Drawing phase] and it draws the ready grawn and measured ui components 
+
+(b) -> size and 2d coordinates
+
+(c) -> parent measures children
+
+(d) -> avoid heavy calculations in compose
+
+Answer Question-2:
+
